@@ -1,5 +1,7 @@
 # Live Financial News Sentiment Analyzer
 
+** View the live app:** [**Click here!**](https://sentiment-analyzer-44jsyh8kctwu7pdysw2vu8.streamlit.app/)
+
 This is an end-to-end AI project that scrapes live financial news headlines and analyzes their sentiment in real-time.
 
 ![App screenshot](sentiment_analyzer.png)
