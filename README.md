@@ -2,24 +2,23 @@
 
 **View the live app:** [**Click here!**](https://sentiment-analyzer-44jsyh8kctwu7pdysw2vu8.streamlit.app/)
 
-This is an end-to-end AI project that scrapes live financial news headlines and analyzes their sentiment in real-time.
+This is an end to end AI project that scrapes live financial news headlines and analyzes their sentiment in real-time.
 
 ![App screenshot](sentiment_analyzer.png)
 
 
 ### The goal
 
-The goal of this project wasn't just to build a model; it was to build a complete, end-to-end AI product. This demonstrates the full lifecycle: from data collection and modeling to building an interactive UI and deploying it on the web.
-
+The goal of this project was to build an end to end AI product for daily news market sentiment.
 
 ### Tech stack
 
 * **Language:** Python
-* **Data collection:** `NewsAPI.org`
-* **AI / Modeling:** `vaderSentiment`
-* **Web app:** `Streamlit`
+* **Data collection:** NewsAPI.org
+* **AI / Modeling:** vaderSentiment
+* **Web app:** Streamlit
 * **Deployment:** Streamlit community cloud
-* **Utilities:** `pandas`, `python-dotenv`
+* **Utilities:** pandas, python-dotenv
 
 
 ### How it works
